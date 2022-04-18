@@ -4,7 +4,7 @@ function GenInfo() {
   return (
     <div className='geninfo'>
       <h1>
-        CHRISTOPHER MORGAN
+        OLADITI SAMUEL
       </h1>
       <div className='contact-details'>
         <h3>
